@@ -1,0 +1,59 @@
+﻿@model IEnumerable<SPSTrainingMvcApp.Models.Training>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TrainingId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TechId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrainerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrainingId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TechId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrainerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { trainingId=item.TrainingId }) |
+                @Html.ActionLink("Details", "Details", new { trainingId = item.TrainingId }) |
+                @Html.ActionLink("Delete", "Delete", new { trainingId = item.TrainingId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,16 @@
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\AuthenticationWebApi.exe
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\AuthenticationWebApi.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\AuthenticationWebApi.deps.json
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\AuthenticationWebApi.runtimeconfig.json
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\AuthenticationWebApi.pdb
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SPS-DotNet\Day11\SPS Training Management\AuthenticationWebApi\obj\Release\net8.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSEmployeeDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\spstrainingmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\spstrainingmvcapp\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\spstrainingmvcapp\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\spstrainingmvcapp\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\spstrainingmvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEE8699-A774-46ED-9BA1-9DC460F4D168}|SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj|solutionrelative:spstrainingmvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainingwebapi\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|solutionrelative:trainingwebapi\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainingwebapi\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A29220-3B38-4A88-BDCE-4769BB0F4448}|TrainingWebApi\\TrainingWebApi.csproj|solutionrelative:trainingwebapi\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C785E-6E7E-428A-8FCD-D957D5E07BC9}|TrainerWebApi\\TrainerWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainerwebapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C785E-6E7E-428A-8FCD-D957D5E07BC9}|TrainerWebApi\\TrainerWebApi.csproj|solutionrelative:trainerwebapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A599E842-85DC-44AD-80EE-DFAF1D8D1355}|TechnologyWebApi\\TechnologyWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\technologywebapi\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A599E842-85DC-44AD-80EE-DFAF1D8D1355}|TechnologyWebApi\\TechnologyWebApi.csproj|solutionrelative:technologywebapi\\controllers\\technologycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C785E-6E7E-428A-8FCD-D957D5E07BC9}|TrainerWebApi\\TrainerWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C785E-6E7E-428A-8FCD-D957D5E07BC9}|TrainerWebApi\\TrainerWebApi.csproj|solutionrelative:trainerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainerlibrary\\repos\\eftrainerrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|solutionrelative:trainerlibrary\\repos\\eftrainerrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainerlibrary\\repos\\itrainerrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|solutionrelative:trainerlibrary\\repos\\itrainerrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainerlibrary\\models\\spstrainerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|solutionrelative:trainerlibrary\\models\\spstrainerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\trainerlibrary\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F896E7A7-DD26-4640-B754-BCEE4864A475}|TrainerLibrary\\TrainerLibrary.csproj|solutionrelative:trainerlibrary\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\traininglibrary\\models\\spstrainingdbsnraocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|solutionrelative:traininglibrary\\models\\spstrainingdbsnraocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\technologylibrary\\models\\spstechnologydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|solutionrelative:technologylibrary\\models\\spstechnologydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSTrainerDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSTrainingDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SPSTechnologyDBProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeelibrary\\models\\spsemployeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\models\\spsemployeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\traininglibrary\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|solutionrelative:traininglibrary\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\technologylibrary\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|solutionrelative:technologylibrary\\models\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeelibrary\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SPSEmployeeDB/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A599E842-85DC-44AD-80EE-DFAF1D8D1355}|TechnologyWebApi\\TechnologyWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\technologywebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A599E842-85DC-44AD-80EE-DFAF1D8D1355}|TechnologyWebApi\\TechnologyWebApi.csproj|solutionrelative:technologywebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeewebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E117F07-4801-4D9E-A811-4F90D5072D4D}|EmployeeWebApi\\EmployeeWebApi.csproj|solutionrelative:employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeelibrary\\repos\\efemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\repos\\efemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\traininglibrary\\repos\\itrainingrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7865CDE-E1B8-4D02-AE0C-88780BCDFAA5}|TrainingLibrary\\TrainingLibrary.csproj|solutionrelative:traininglibrary\\repos\\itrainingrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\technologylibrary\\repos\\itechnologyrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BD328F-E1A9-479C-9624-4EB4E84041A8}|TechnologyLibrary\\TechnologyLibrary.csproj|solutionrelative:technologylibrary\\repos\\itechnologyrepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|d:\\dotnetpractice\\sir\\sps-dotnet-day11\\day11\\sps training management\\employeelibrary\\repos\\iemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076A3DD7-EC41-414F-A9A6-EF94278AB625}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\repos\\iemployeerepoasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48189FE-04B9-4DBD-B6C0-6BB3CEF4996F}|SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj|D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
+      "RelativeMoniker": "D:0:0:{B48189FE-04B9-4DBD-B6C0-6BB3CEF4996F}|SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj|solutionrelative:SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230FFCC0-8DDD-4DAC-86D6-342F4DD45AB6}|SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj|D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
+      "RelativeMoniker": "D:0:0:{230FFCC0-8DDD-4DAC-86D6-342F4DD45AB6}|SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj|solutionrelative:SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2BA4AC-A603-4E4D-B344-883319A35A78}|SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj|D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
+      "RelativeMoniker": "D:0:0:{6D2BA4AC-A603-4E4D-B344-883319A35A78}|SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj|solutionrelative:SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5252B9-B2AB-4D08-AA8E-D1C9F6F74BA6}|SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj|D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42",
+      "RelativeMoniker": "D:0:0:{EF5252B9-B2AB-4D08-AA8E-D1C9F6F74BA6}|SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj|solutionrelative:SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|0032459b-05d4-453a-8918-372d533c7e42"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\appsettings.json",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\appsettings.json",
+              "RelativeToolTip": "SPSTrainingMvcApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T09:43:29.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:39:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:37:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechnologyController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\TechnologyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:37:02.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SPSTrainingMvcApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:36:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingWebApi\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "TrainingWebApi\\Controllers\\TrainingController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingWebApi\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "TrainingWebApi\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:36:01.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SPSEmployeeDBProject",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj*",
+              "RelativeToolTip": "SPSEmployeeDBProject\\SPSEmployeeDBProject.sqlproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:26:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingWebApi\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "TrainingWebApi\\Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingWebApi\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "TrainingWebApi\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:35:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T08:56:08.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:40:44.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerWebApi\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "TrainerWebApi\\Controllers\\TrainerController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerWebApi\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "TrainerWebApi\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:33:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TrainerWebApi\\Program.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerWebApi\\Program.cs",
+              "RelativeToolTip": "TrainerWebApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:34:05.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "TrainerLibrary\\Models\\Trainer.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Models\\Trainer.cs",
+              "RelativeToolTip": "TrainerLibrary\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:30:40.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SPSTrainerDBContext.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Models\\SPSTrainerDBContext.cs",
+              "RelativeDocumentMoniker": "TrainerLibrary\\Models\\SPSTrainerDBContext.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Models\\SPSTrainerDBContext.cs",
+              "RelativeToolTip": "TrainerLibrary\\Models\\SPSTrainerDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:30:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EFTrainerRepoAsync.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Repos\\EFTrainerRepoAsync.cs",
+              "RelativeDocumentMoniker": "TrainerLibrary\\Repos\\EFTrainerRepoAsync.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Repos\\EFTrainerRepoAsync.cs",
+              "RelativeToolTip": "TrainerLibrary\\Repos\\EFTrainerRepoAsync.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:25:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TechnologyController.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "RelativeDocumentMoniker": "TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "RelativeToolTip": "TechnologyWebApi\\Controllers\\TechnologyController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:50:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SPSTechnologyDBContext.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyLibrary\\Models\\SPSTechnologyDBContext.cs",
+              "RelativeDocumentMoniker": "TechnologyLibrary\\Models\\SPSTechnologyDBContext.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyLibrary\\Models\\SPSTechnologyDBContext.cs",
+              "RelativeToolTip": "TechnologyLibrary\\Models\\SPSTechnologyDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:13:20.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SPSTrainingDBsnraoContext.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "RelativeDocumentMoniker": "TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "RelativeToolTip": "TrainingLibrary\\Models\\SPSTrainingDBsnraoContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:57:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITrainerRepoAsync.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "RelativeDocumentMoniker": "TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "RelativeToolTip": "TrainerLibrary\\Repos\\ITrainerRepoAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:02:32.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SPSTrainerDBProject",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "RelativeToolTip": "SPSTrainerDBProject\\SPSTrainerDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:35:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SPSTrainingDBProject",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "RelativeToolTip": "SPSTrainingDBProject\\SPSTrainingDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T08:38:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SPSTechnologyDBProject",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "RelativeDocumentMoniker": "SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "RelativeToolTip": "SPSTechnologyDBProject\\SPSTechnologyDBProject.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T06:31:13.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SPSEmployeeDBContext.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Models\\SPSEmployeeDBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:15:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Training.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingLibrary\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "TrainingLibrary\\Models\\Training.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingLibrary\\Models\\Training.cs",
+              "RelativeToolTip": "TrainingLibrary\\Models\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:16:47.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyLibrary\\Models\\Technology.cs",
+              "RelativeDocumentMoniker": "TechnologyLibrary\\Models\\Technology.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyLibrary\\Models\\Technology.cs",
+              "RelativeToolTip": "TechnologyLibrary\\Models\\Technology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:10:43.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Models\\Employee.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:39:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Employee [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SPSEmployeeDB/True/SqlTable/dbo.Employee.sql",
+              "ToolTip": "dbo.Employee [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-11T08:59:12.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TechnologyWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TechnologyWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T08:56:30.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T08:55:59.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\appsettings.json",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T16:21:36.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EFEmployeeRepoAsync.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Repos\\EFEmployeeRepoAsync.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:16:52.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApi\\Program.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeWebApi\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:21:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITrainingRepoAsync.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "RelativeDocumentMoniker": "TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "RelativeToolTip": "TrainingLibrary\\Repos\\ITrainingRepoAsync.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:28:10.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITechnologyRepoAsync.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "RelativeDocumentMoniker": "TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "RelativeToolTip": "TechnologyLibrary\\Repos\\ITechnologyRepoAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:19:33.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IEmployeeRepoAsync.cs",
+              "DocumentMoniker": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "ToolTip": "D:\\dotnetpractice\\Sir\\SPS-DotNet-Day11\\Day11\\SPS Training Management\\EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Repos\\IEmployeeRepoAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:46:48.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

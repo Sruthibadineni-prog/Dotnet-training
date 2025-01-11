@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E1d6GiLAR1Cg3s5U+XVAXB2+HXjwtVSQAOpfAnqjQM8=",
+  "Source": "TrainerWebApi",
+  "BasePath": "_content/TrainerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

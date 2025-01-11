@@ -1,0 +1,48 @@
+﻿@model IEnumerable<SPSTrainingMvcApp.Models.Technology>
+
+@{
+    ViewData["Title"] = "ByLevel";
+}
+
+<h1>ByLevel</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TechId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TechTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TechLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duration)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TechId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TechTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TechLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

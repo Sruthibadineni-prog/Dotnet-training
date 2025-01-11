@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ip/M23z+syIWK6hu1j9Ii8sP/Axb1e4q8+0zvL5Efbc=",
+  "Source": "AuthenticationWebApi",
+  "BasePath": "_content/AuthenticationWebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

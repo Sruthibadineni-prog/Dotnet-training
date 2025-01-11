@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "TrainerWebApi.Controllers.TrainerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Trainer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainerWebApi.Controllers.TrainerController",
+    "Method": "Insert",
+    "RelativePath": "api/Trainer/{token}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "trainer",
+        "Type": "TrainerLibrary.Models.Trainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainerWebApi.Controllers.TrainerController",
+    "Method": "GetOne",
+    "RelativePath": "api/Trainer/{trainerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainerWebApi.Controllers.TrainerController",
+    "Method": "Update",
+    "RelativePath": "api/Trainer/{trainerId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "trainer",
+        "Type": "TrainerLibrary.Models.Trainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainerWebApi.Controllers.TrainerController",
+    "Method": "Delete",
+    "RelativePath": "api/Trainer/{trainerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainerWebApi.Controllers.TrainerController",
+    "Method": "GetByType",
+    "RelativePath": "api/Trainer/ByType/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

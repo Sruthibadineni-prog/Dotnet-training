@@ -1,0 +1,287 @@
+[
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Trainee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "Insert",
+    "RelativePath": "api/Trainee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainee",
+        "Type": "TrainingLibrary.Models.Trainee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "GetOne",
+    "RelativePath": "api/Trainee/{trainingId}/{traineeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "traineeId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "Update",
+    "RelativePath": "api/Trainee/{trainingId}/{traineeId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "traineeId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "trainee",
+        "Type": "TrainingLibrary.Models.Trainee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "Delete",
+    "RelativePath": "api/Trainee/{trainingId}/{traineeId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "traineeId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "GetByTrainee",
+    "RelativePath": "api/Trainee/ByTrainee/{traineeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "traineeId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "GetByTraining",
+    "RelativePath": "api/Trainee/ByTraining/{trainingId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TraineeController",
+    "Method": "InsertEmployee",
+    "RelativePath": "api/Trainee/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "TrainingLibrary.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "GetAll",
+    "RelativePath": "api/Training",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "Insert",
+    "RelativePath": "api/Training",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "training",
+        "Type": "TrainingLibrary.Models.Training",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "GetOne",
+    "RelativePath": "api/Training/{trainingId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "Update",
+    "RelativePath": "api/Training/{trainingId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "training",
+        "Type": "TrainingLibrary.Models.Training",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "Delete",
+    "RelativePath": "api/Training/{trainingId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "GetByTechnology",
+    "RelativePath": "api/Training/ByTechnology/{techId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "techId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "GetByTrainer",
+    "RelativePath": "api/Training/ByTrainer/{trainerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "InsertTechnology",
+    "RelativePath": "api/Training/Technology",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "technology",
+        "Type": "TrainingLibrary.Models.Technology",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrainingWebApi.Controllers.TrainingController",
+    "Method": "InsertTrainer",
+    "RelativePath": "api/Training/Trainer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainer",
+        "Type": "TrainingLibrary.Models.Trainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

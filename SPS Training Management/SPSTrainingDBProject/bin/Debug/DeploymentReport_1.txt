@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Employee] (Table)
+       [dbo].[Technology] (Table)
+       [dbo].[Trainee] (Table)
+       [dbo].[Trainer] (Table)
+       [dbo].[Training] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Trainee] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Trainee] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Training] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Training] (Foreign Key)
+       Check Constraint: unnamed constraint on [dbo].[Trainee] (Check Constraint)
+
+** Supporting actions

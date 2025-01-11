@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeeWebApi\\EmployeeWebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechnologyWebApi\\TechnologyWebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TrainerWebApi\\TrainerWebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TrainingWebApi\\TrainingWebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SPSTrainingMvcApp\\SPSTrainingMvcApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthenticationWebApi\\AuthenticationWebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
